@@ -1,0 +1,62 @@
+C:\Users\nadun\source\repos\WindowsFormsApp4\WindowsFormsApp4\bin\Debug\WindowsFormsApp4.exe.config
+C:\Users\nadun\source\repos\WindowsFormsApp4\WindowsFormsApp4\bin\Debug\WindowsFormsApp4.exe
+C:\Users\nadun\source\repos\WindowsFormsApp4\WindowsFormsApp4\bin\Debug\WindowsFormsApp4.pdb
+C:\Users\nadun\source\repos\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.csproj.AssemblyReference.cache
+C:\Users\nadun\source\repos\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.loging.resources
+C:\Users\nadun\source\repos\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.Properties.Resources.resources
+C:\Users\nadun\source\repos\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.csproj.GenerateResource.cache
+C:\Users\nadun\source\repos\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.csproj.CoreCompileInputs.cache
+C:\Users\nadun\source\repos\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.exe
+C:\Users\nadun\source\repos\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.pdb
+C:\Users\nadun\source\repos\WindowsFormsApp4\WindowsFormsApp4\bin\Debug\Guna.UI2.dll
+C:\Users\nadun\source\repos\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.csproj.CopyComplete
+C:\Users\nadun\source\repos\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.students.resources
+C:\Users\nadun\source\repos\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.Department.resources
+C:\Users\nadun\source\repos\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.Dashbord.resources
+E:\New folder (2)\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.csproj.AssemblyReference.cache
+E:\New folder (2)\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.Dashbord.resources
+E:\New folder (2)\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.Department.resources
+E:\New folder (2)\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.loging.resources
+E:\New folder (2)\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.Properties.Resources.resources
+E:\New folder (2)\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.students.resources
+E:\New folder (2)\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.csproj.GenerateResource.cache
+E:\New folder (2)\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.csproj.CoreCompileInputs.cache
+E:\New folder (2)\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.exe
+E:\New folder (2)\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.pdb
+E:\New folder (2)\WindowsFormsApp4\WindowsFormsApp4\bin\Debug\WindowsFormsApp4.exe.config
+E:\New folder (2)\WindowsFormsApp4\WindowsFormsApp4\bin\Debug\WindowsFormsApp4.exe
+E:\New folder (2)\WindowsFormsApp4\WindowsFormsApp4\bin\Debug\WindowsFormsApp4.pdb
+E:\New folder (2)\WindowsFormsApp4\WindowsFormsApp4\bin\Debug\Guna.UI2.dll
+E:\New folder (2)\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.csproj.CopyComplete
+C:\Users\HARSHA\Desktop\New folder (2)\WindowsFormsApp4\WindowsFormsApp4\bin\Debug\WindowsFormsApp4.exe.config
+C:\Users\HARSHA\Desktop\New folder (2)\WindowsFormsApp4\WindowsFormsApp4\bin\Debug\WindowsFormsApp4.exe
+C:\Users\HARSHA\Desktop\New folder (2)\WindowsFormsApp4\WindowsFormsApp4\bin\Debug\WindowsFormsApp4.pdb
+C:\Users\HARSHA\Desktop\New folder (2)\WindowsFormsApp4\WindowsFormsApp4\bin\Debug\Guna.UI2.dll
+C:\Users\HARSHA\Desktop\New folder (2)\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.csproj.AssemblyReference.cache
+C:\Users\HARSHA\Desktop\New folder (2)\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.Dashbord.resources
+C:\Users\HARSHA\Desktop\New folder (2)\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.Department.resources
+C:\Users\HARSHA\Desktop\New folder (2)\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.loging.resources
+C:\Users\HARSHA\Desktop\New folder (2)\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.Properties.Resources.resources
+C:\Users\HARSHA\Desktop\New folder (2)\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.students.resources
+C:\Users\HARSHA\Desktop\New folder (2)\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.csproj.GenerateResource.cache
+C:\Users\HARSHA\Desktop\New folder (2)\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.csproj.CoreCompileInputs.cache
+C:\Users\HARSHA\Desktop\New folder (2)\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.csproj.CopyComplete
+C:\Users\HARSHA\Desktop\New folder (2)\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.exe
+C:\Users\HARSHA\Desktop\New folder (2)\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.pdb
+C:\Users\HARSHA\Desktop\New folder (2)\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.menu.resources
+F:\New folder (4)\New folder (2)\WindowsFormsApp4\WindowsFormsApp4\bin\Debug\WindowsFormsApp4.exe.config
+F:\New folder (4)\New folder (2)\WindowsFormsApp4\WindowsFormsApp4\bin\Debug\WindowsFormsApp4.exe
+F:\New folder (4)\New folder (2)\WindowsFormsApp4\WindowsFormsApp4\bin\Debug\WindowsFormsApp4.pdb
+F:\New folder (4)\New folder (2)\WindowsFormsApp4\WindowsFormsApp4\bin\Debug\Guna.UI2.dll
+F:\New folder (4)\New folder (2)\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.csproj.AssemblyReference.cache
+F:\New folder (4)\New folder (2)\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.Department.resources
+F:\New folder (4)\New folder (2)\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.Dashbord.resources
+F:\New folder (4)\New folder (2)\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.loging.resources
+F:\New folder (4)\New folder (2)\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.Properties.Resources.resources
+F:\New folder (4)\New folder (2)\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.menu.resources
+F:\New folder (4)\New folder (2)\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.students.resources
+F:\New folder (4)\New folder (2)\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.csproj.GenerateResource.cache
+F:\New folder (4)\New folder (2)\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.csproj.CoreCompileInputs.cache
+F:\New folder (4)\New folder (2)\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.csproj.CopyComplete
+F:\New folder (4)\New folder (2)\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.exe
+F:\New folder (4)\New folder (2)\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.pdb
